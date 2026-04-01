@@ -15,3 +15,12 @@ button {
     border: none;
     cursor: pointer;
 }
+
+input {
+    padding: 8px;
+    width: 200px;
+}
+
+form {
+    margin-top: 50px;
+}
